@@ -103,7 +103,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.6,
+        "min_clearance": 0.3,
         "min_copper_edge_clearance": 1.0,
         "min_hole_clearance": 0.6,
         "min_hole_to_hole": 0.25,
@@ -120,7 +120,8 @@
       },
       "track_widths": [
         0.0,
-        0.5
+        0.5,
+        0.8
       ],
       "via_dimensions": [
         {
